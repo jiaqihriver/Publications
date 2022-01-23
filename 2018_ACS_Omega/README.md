@@ -1,3 +1,3 @@
-The paper titled 'Anisotropic Properties of Tellurium Nanoflakes Probed by Polarized Raman and Transient Absorption Microscopy: Implications for Polarization-sensitive Applications'. DOI:
+The paper titled Efficient Energy Transfer in In2Se3 – MoSe2 van der Waals Heterostructures'. DOI: 10.1021/acsomega.8b01532
 
 Download the zip file and upload it to Overleaf. Have fun.
