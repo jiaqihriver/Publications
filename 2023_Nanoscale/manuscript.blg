@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: manuscript.aux
+The style file: rsc.bst
+Database file #1: rsc.bib
+Repeated entry---line 410 of file rsc.bib
+ : @article{he2015spatiotemporal
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 422 of file rsc.bib
+ : @article{kumar2013charge
+ :                         ,
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1384 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1384 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1384 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1384 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1384 of file rsc.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Too many commas in name 1 of "Di Bartolomeo, A.Urban, F.Pelella, A.Grillo, A.Passacantando, M.Liu, X.Giubileo, F." for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+`pages' is a missing field, not a string, for entry Di2020Electron
+while executing---line 1465 of file rsc.bst
+Warning--There are no page numbers for 2017Direct
+Warning--There are no page numbers for Ceballos2017Ultrafast
+You've used 39 entries,
+            3045 wiz_defined-function locations,
+            897 strings with 14837 characters,
+and the built_in function-call counts, 17650 in all, are:
+= -- 1098
+> -- 1789
+< -- 4
++ -- 572
+- -- 532
+* -- 2066
+:= -- 2931
+add.period$ -- 39
+call.type$ -- 39
+change.case$ -- 0
+chr.to.int$ -- 38
+cite$ -- 41
+duplicate$ -- 628
+empty$ -- 933
+format.name$ -- 575
+if$ -- 3335
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 255
+num.names$ -- 117
+pop$ -- 124
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 330
+stack$ -- 0
+substring$ -- 821
+swap$ -- 332
+text.length$ -- 79
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 270
+warning$ -- 2
+while$ -- 131
+width$ -- 0
+write$ -- 565
+(There were 18 error messages)

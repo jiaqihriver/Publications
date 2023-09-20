@@ -1,0 +1,337 @@
+\providecommand*{\mcitethebibliography}{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+{\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{39}
+\providecommand*{\natexlab}[1]{#1}
+\providecommand*{\mciteSetBstSublistMode}[1]{}
+\providecommand*{\mciteSetBstMaxWidthForm}[2]{}
+\providecommand*{\mciteBstWouldAddEndPuncttrue}
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*{\mciteBstWouldAddEndPunctfalse}
+  {\let\EndOfBibitem\relax}
+\providecommand*{\mciteSetBstMidEndSepPunct}[3]{}
+\providecommand*{\mciteSetBstSublistLabelBeginEnd}[3]{}
+\providecommand*{\EndOfBibitem}{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}
+{(\emph{\alph{mcitesubitemcount}})}
+\mciteSetBstSublistLabelBeginEnd{\mcitemaxwidthsubitemform\space}
+{\relax}{\relax}
+
+\bibitem[Jariwala \emph{et~al.}(2017)Jariwala, Davoyan, Wong, and
+  Atwater]{jariwala2017van}
+D.~Jariwala, A.~R. Davoyan, J.~Wong and H.~A. Atwater, \emph{Acs Photonics},
+  2017, \textbf{4}, 2962--2970\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Novoselov \emph{et~al.}(2016)Novoselov, Mishchenko, Carvalho, and
+  Castro~Neto]{novoselov20162d}
+K.~S. Novoselov, A.~Mishchenko, o.~A. Carvalho and A.~Castro~Neto,
+  \emph{Science}, 2016, \textbf{353}, aac9439\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pan \emph{et~al.}(2014)Pan, Zhang, Huang, Li, Meng, Gao, Huan, Lin,
+  Wang, Du,\emph{et~al.}]{pan2014construction}
+Y.~Pan, L.~Zhang, L.~Huang, L.~Li, L.~Meng, M.~Gao, Q.~Huan, X.~Lin, Y.~Wang,
+  S.~Du \emph{et~al.}, \emph{small}, 2014, \textbf{10}, 2215--2225\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Radisavljevic \emph{et~al.}(2011)Radisavljevic, Radenovic, Brivio,
+  Giacometti, and Kis]{radisavljevic2011single}
+B.~Radisavljevic, A.~Radenovic, J.~Brivio, V.~Giacometti and A.~Kis,
+  \emph{Nature nanotechnology}, 2011, \textbf{6}, 147--150\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Liu \emph{et~al.}(2019)Liu, You, Zhao, Shen, Liu, Li, Yan, and
+  Zhang]{liu2019high}
+B.~Liu, C.~You, C.~Zhao, G.~Shen, Y.~Liu, Y.~Li, H.~Yan and Y.~Zhang,
+  \emph{Chinese Optics Letters}, 2019, \textbf{17}, 020002\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Coleman \emph{et~al.}(2011)Coleman, Lotya, O’Neill, Bergin, King,
+  Khan, Young, Gaucher, De, Smith,\emph{et~al.}]{coleman2011two}
+J.~N. Coleman, M.~Lotya, A.~O’Neill, S.~D. Bergin, P.~J. King, U.~Khan,
+  K.~Young, A.~Gaucher, S.~De, R.~J. Smith \emph{et~al.}, \emph{Science}, 2011,
+  \textbf{331}, 568--571\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mak \emph{et~al.}(2010)Mak, Lee, Hone, Shan, and
+  Heinz]{mak2010atomically}
+K.~F. Mak, C.~Lee, J.~Hone, J.~Shan and T.~F. Heinz, \emph{Physical review
+  letters}, 2010, \textbf{105}, 136805\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Manzeli \emph{et~al.}(2017)Manzeli, Ovchinnikov, Pasquier, Yazyev, and
+  Kis]{manzeli20172d}
+S.~Manzeli, D.~Ovchinnikov, D.~Pasquier, O.~V. Yazyev and A.~Kis, \emph{Nature
+  Reviews Materials}, 2017, \textbf{2}, 1--15\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ong \emph{et~al.}(2014)Ong, Zhang, and Zhang]{ong2014anisotropic}
+Z.-Y. Ong, G.~Zhang and Y.~W. Zhang, \emph{Journal of Applied Physics}, 2014,
+  \textbf{116}, 214505\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tran \emph{et~al.}(2014)Tran, Soklaski, Liang, and
+  Yang]{tran2014layer}
+V.~Tran, R.~Soklaski, Y.~Liang and L.~Yang, \emph{Physical Review B}, 2014,
+  \textbf{89}, 235319\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wu \emph{et~al.}(2017)Wu, Tan, Tan, Liu, Yin, Dang, Wang, and
+  Peng]{wu2017controlled}
+J.~Wu, C.~Tan, Z.~Tan, Y.~Liu, J.~Yin, W.~Dang, M.~Wang and H.~Peng, \emph{Nano
+  letters}, 2017, \textbf{17}, 3021--3026\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wu \emph{et~al.}(2017)Wu, Yuan, Meng, Chen, Sun, Chen, Dang, Tan, Liu,
+  Yin,\emph{et~al.}]{wu2017high}
+J.~Wu, H.~Yuan, M.~Meng, C.~Chen, Y.~Sun, Z.~Chen, W.~Dang, C.~Tan, Y.~Liu,
+  J.~Yin \emph{et~al.}, \emph{Nature Nanotechnology}, 2017, \textbf{12},
+  530--534\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sun \emph{et~al.}(2015)Sun, Shi, Siegrist, and
+  Singh]{sun2015electronic}
+J.~Sun, H.~Shi, T.~Siegrist and D.~J. Singh, \emph{Applied Physics Letters},
+  2015, \textbf{107}, 153902\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Gu \emph{et~al.}(2020)Gu, Cai, Dong, Yu, Hoffman, Liu, Oyedele, Lin,
+  Ge, Puretzky,\emph{et~al.}]{gu2020two}
+Y.~Gu, H.~Cai, J.~Dong, Y.~Yu, A.~N. Hoffman, C.~Liu, A.~D. Oyedele, Y.-C. Lin,
+  Z.~Ge, A.~A. Puretzky \emph{et~al.}, \emph{Advanced Materials}, 2020,
+  \textbf{32}, 1906238\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Oyedele \emph{et~al.}(2017)Oyedele, Yang, Liang, Puretzky, Wang,
+  Zhang, Yu, Pudasaini, Ghosh, Liu,\emph{et~al.}]{oyedele2017pdse2}
+A.~D. Oyedele, S.~Yang, L.~Liang, A.~A. Puretzky, K.~Wang, J.~Zhang, P.~Yu,
+  P.~R. Pudasaini, A.~W. Ghosh, Z.~Liu \emph{et~al.}, \emph{Journal of the
+  American Chemical Society}, 2017, \textbf{139}, 14090--14097\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Hoffman \emph{et~al.}(2019)Hoffman, Gu, Liang, Fowlkes, Xiao, and
+  Rack]{hoffman2019exploring}
+A.~N. Hoffman, Y.~Gu, L.~Liang, J.~D. Fowlkes, K.~Xiao and P.~D. Rack,
+  \emph{npj 2D Materials and Applications}, 2019, \textbf{3}, 50\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Qin \emph{et~al.}(2018)Qin, Yan, Ding, Ge, Song, and
+  Gao]{qin2018monolayer}
+D.~Qin, P.~Yan, G.~Ding, X.~Ge, H.~Song and G.~Gao, \emph{Scientific reports},
+  2018, \textbf{8}, 2764\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chow \emph{et~al.}(2017)Chow, Yu, Liu, Hong, Wang, Zeng, Hsu, Zhu,
+  Zhou, Wang,\emph{et~al.}]{chow2017high}
+W.~L. Chow, P.~Yu, F.~Liu, J.~Hong, X.~Wang, Q.~Zeng, C.-H. Hsu, C.~Zhu,
+  J.~Zhou, X.~Wang \emph{et~al.}, \emph{Advanced Materials}, 2017, \textbf{29},
+  1602969\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Di~Bartolomeo(2020)]{Di2020Electron}
+F.~A. A. M. X.~F. Di~Bartolomeo, A.Urban, \emph{Nanotechnology}, 2020,
+  \textbf{31}, year\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Long \emph{et~al.}(2019)Long, Wang, Wang, Zhou, Xia, Luo, Huang,
+  Zhang, Yan, Fan,\emph{et~al.}]{long2019palladium}
+M.~Long, Y.~Wang, P.~Wang, X.~Zhou, H.~Xia, C.~Luo, S.~Huang, G.~Zhang, H.~Yan,
+  Z.~Fan \emph{et~al.}, \emph{ACS nano}, 2019, \textbf{13}, 2511--2519\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lu \emph{et~al.}(2020)Lu, Chen, Cheng, Chuu, Lu, Chen, Lu, Chuang,
+  Wei, Chueh,\emph{et~al.}]{lu2020layer}
+L.-S. Lu, G.-H. Chen, H.-Y. Cheng, C.-P. Chuu, K.-C. Lu, C.-H. Chen, M.-Y. Lu,
+  T.-H. Chuang, D.-H. Wei, W.-C. Chueh \emph{et~al.}, \emph{ACS nano}, 2020,
+  \textbf{14}, 4963--4972\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhong \emph{et~al.}(2020)Zhong, Yu, Cao, Zeng, and Liu]{2020High}
+J.~Zhong, J.~Yu, L.~Cao, C.~Zeng and Y.~Liu, \emph{Nano Research}, 2020,
+  \textbf{13}, 7\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Liang \emph{et~al.}(2019)Liang, Wang, Zhang, Wei, Lim, Zhu, Hu, Wei,
+  Lee, and Sow]{2019High}
+Q.~Liang, Q.~Wang, Q.~Zhang, J.~Wei, S.~Lim, R.~Zhu, J.~Hu, W.~Wei, C.~Lee and
+  C.~Sow, \emph{Advanced materials (Deerfield Beach, Fla.)}, 2019, \textbf{31},
+  e1807609\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kang \emph{et~al.}(2021)Kang, Lan, Li, Wang, Yip, Meng, Wang, Lai,
+  Liu, and Ho]{kang2021van}
+X.~Kang, C.~Lan, F.~Li, W.~Wang, S.~Yip, Y.~Meng, F.~Wang, Z.~Lai, C.~Liu and
+  J.~C. Ho, \emph{Advanced Optical Materials}, 2021, \textbf{9}, 2001991\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Gr{\o}nvold and R{\o}st(1957)]{gronvold1957crystal}
+F.~Gr{\o}nvold and E.~R{\o}st, \emph{Acta Crystallographica}, 1957,
+  \textbf{10}, 329--331\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chhowalla \emph{et~al.}(2013)Chhowalla, Shin, Eda, Li, Loh, and
+  Zhang]{chhowalla2013chemistry}
+M.~Chhowalla, H.~S. Shin, G.~Eda, L.-J. Li, K.~P. Loh and H.~Zhang,
+  \emph{Nature chemistry}, 2013, \textbf{5}, 263--275\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kolobov and Tominaga(2016)]{kolobov2016two}
+A.~V. Kolobov and J.~Tominaga, \emph{Two-dimensional transition-metal
+  dichalcogenides}, Springer, 2016, vol. 239\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Soulard \emph{et~al.}(2004)Soulard, Rocquefelte, Petit, Evain, Jobic,
+  Iti{\'e}, Munsch, Koo, and Whangbo]{soulard2004experimental}
+C.~Soulard, X.~Rocquefelte, P.-E. Petit, M.~Evain, S.~Jobic, J.-P. Iti{\'e},
+  P.~Munsch, H.-J. Koo and M.-H. Whangbo, \emph{Inorganic chemistry}, 2004,
+  \textbf{43}, 1943--1949\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jakhar \emph{et~al.}(2020)Jakhar, Singh, Kumar, and
+  Tankeshwar]{jakhar2020pressure}
+M.~Jakhar, J.~Singh, A.~Kumar and K.~Tankeshwar, \emph{Nanotechnology}, 2020,
+  \textbf{31}, 145710\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Huo \emph{et~al.}(2021)Huo, Wen, Yan, Li, Huang, Zhu, Cui, Xu, Liu,
+  and Tian]{huo2021thickness}
+C.-F. Huo, R.~Wen, X.-Q. Yan, D.-K. Li, K.-X. Huang, Y.~Zhu, Q.~Cui, C.~Xu,
+  Z.-B. Liu and J.-G. Tian, \emph{Physical Chemistry Chemical Physics}, 2021,
+  \textbf{23}, 20666--20674\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wei \emph{et~al.}(2022)Wei, Lian, Zhang, Wang, Wang, and
+  Xu]{wei2022layer}
+M.~Wei, J.~Lian, Y.~Zhang, C.~Wang, Y.~Wang and Z.~Xu, \emph{npj 2D Materials
+  and Applications}, 2022, \textbf{6}, 1\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ye \emph{et~al.}(2021)Ye, Yang, Dong, Huang, Song, Sa, Zheng, and
+  Zhan]{ye2021layer}
+C.~Ye, Z.~Yang, J.~Dong, Y.~Huang, M.~Song, B.~Sa, J.~Zheng and H.~Zhan,
+  \emph{Small}, 2021, \textbf{17}, 2103938\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[He \emph{et~al.}(2015)He, He, Wang, Cui, Ceballos, and
+  Zhao]{he2015spatiotemporal}
+J.~He, D.~He, Y.~Wang, Q.~Cui, F.~Ceballos and H.~Zhao, \emph{Nanoscale}, 2015,
+  \textbf{7}, 9526--9531\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pan \emph{et~al.}(2018)Pan, Kong, Liu, Ge, Zereshki, Hao, He, Wang,
+  and Zhao]{pan2018understanding}
+S.~Pan, W.~Kong, J.~Liu, X.~Ge, P.~Zereshki, S.~Hao, D.~He, Y.~Wang and
+  H.~Zhao, \emph{ACS Applied Nano Materials}, 2018, \textbf{2}, 459--464\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kumar \emph{et~al.}(2013)Kumar, He, He, Wang, and
+  Zhao]{kumar2013charge}
+N.~Kumar, J.~He, D.~He, Y.~Wang and H.~Zhao, \emph{Journal of Applied Physics},
+  2013, \textbf{113}, 133702\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ceballos \emph{et~al.}(2016)Ceballos, Cui, Bellus, and
+  Zhao]{ceballos2016exciton}
+F.~Ceballos, Q.~Cui, M.~Z. Bellus and H.~Zhao, \emph{Nanoscale}, 2016,
+  \textbf{8}, 11681--11688\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Steinleitner \emph{et~al.}(2017)Steinleitner, Merkl, Nagler,
+  Mornhinweg, Schüller, Korn, Chernikov, and Huber]{2017Direct}
+P.~Steinleitner, P.~Merkl, P.~Nagler, J.~Mornhinweg, C.~Schüller, T.~Korn,
+  A.~Chernikov and R.~Huber, \emph{Nano Lett.}, 2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhao \emph{et~al.}(2018)Zhao, He, He, Zhang, Yi, Wang, and
+  Zhao]{2018Probing}
+S.~Zhao, D.~He, J.~He, X.~Zhang, L.~Yi, Y.~Wang and H.~Zhao, \emph{Nanoscale},
+  2018,  10.1039.C8NR03135E\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ceballos \emph{et~al.}(2017)Ceballos, Frank, Zhao, and
+  Hui.]{Ceballos2017Ultrafast}
+Ceballos, Frank, Zhao and Hui., \emph{Advanced Functional Materials},
+  2017\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
